@@ -43,9 +43,9 @@
 
 ## 📊 GitHub Stats
 
-![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=2004kushsutar&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=2004kushsutar&theme=radical)
 
 ---
 
