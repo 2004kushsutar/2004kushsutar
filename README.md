@@ -30,9 +30,19 @@
 - Preserves formatting & structure
 - Uses AI + glossary + translation memory
 
+### 🔹 KrisheeGram – Farmer’s Knowledge sharing community
+- AI-powered mobile application for farmers featuring crop disease detection, expert video tutorials, social knowledge sharing, and real-time community chat 
+- Integrated deep learning models for plant health analysis and built a scalable backend with real-time communication support. Designed with voice-first
+accessibility and regional language support for rural adoption
+
+### 🔹 AR-Based Cultural Heritage Preservation Platform 
+- Mobile AR application enabling virtual heritage tours using smartphones
+- Designed interactive AR experiences for cultural education 
+- Built using Unity + AR Foundation
+
 ### 🔹 AR AstroQuest
 - A game that engages you in Real-world experience
-- Built using Unity + AR
+- Built using Unity + AR Foundation
 
 ### 🔹 AR Indoor Navigation
 - Built using Unity + AR
